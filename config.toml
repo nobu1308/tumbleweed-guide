@@ -1,0 +1,7 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Tumbleweed Guide'
+theme = 'hugo-book'
+
+[params]
+  BookSection = '*'
