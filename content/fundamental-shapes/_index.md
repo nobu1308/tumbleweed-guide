@@ -47,7 +47,7 @@ Empty spaces are either controlled or contested, or simply **out of sight** if n
 
 **A cutting point** is a contested empty space where a Red link intersects with a White link. Creating, playing on, and otherwise controlling these cutting points are a major aspect of tactics in Tumbleweed. In the diagram, D4 is a cutting point. Either player can play a 2-stack there to “cut” the enemy link. Either player could also play on D1 or D7 to add fLOS to D4. Discussion about cuts follows in the next page.
 
-## Bridge one space jump controlling a cutting point
+## Bridge 
 
 {{< columns >}}
 ![Diagram 4](4.png)
@@ -121,7 +121,7 @@ Of course, when threatening two things at once, both of these things do not have
 In this position, White has just played I10, and Red must choose between defending the I6 stack and preventing White’s cut on E6.
 
 
-## Wedge a cut of a one-space link
+## Wedge 
 
 We call wedge a move that cuts a 1-space link, like Red D5 in the following diagram.
 
@@ -170,7 +170,7 @@ Shields deprive enemies of LOS – if given the option, extend your shield farth
 
 Basic examples of shielding can be found in: Local tactics in Tumbleweed puzzles #6, #7, and #8
 
-## Guard adding a third LOS to a contested cutting point.
+## Guard 
 
 {{< columns >}}
 ![Diagram 16](16.png)
@@ -217,14 +217,14 @@ If the defending stack is valuable enough to trigger many shielding moves, the a
 Examples: Local tactics in Tumbleweed (AGM expansion) Puzzle H
 
 
-## Wall - Walls are solid lines of stacks that block enemy LOS from a territory.
+## Wall
 
 {{< columns >}}
 ![Diagram 21](21.png)
 <--->
 {{< /columns >}}
 
-Walls can be extremely powerful because of how players can only place pieces within their own fLOS with the right placement of a wall, you can completely eliminate an opponent’s ability to even contest your control of an entire area. Indeed, walls are numerous in the final position of any Tumbleweed endgame, as territory is often not even countable until all spaces are hidden away behind walls. This is not always the case, as having majority LOS does not require walls, but it is the most common way to claim land in this game.
+Walls are solid lines of stacks that block enemy LOS from a territory. Walls can be extremely powerful because of how players can only place pieces within their own fLOS with the right placement of a wall, you can completely eliminate an opponent’s ability to even contest your control of an entire area. Indeed, walls are numerous in the final position of any Tumbleweed endgame, as territory is often not even countable until all spaces are hidden away behind walls. This is not always the case, as having majority LOS does not require walls, but it is the most common way to claim land in this game.
 
 Strengths and Weaknesses of walls are many. Attacking walls can be done by apple picking (eating away from edges), getting underneath, or cutting before it closes.
 
@@ -313,9 +313,9 @@ More examples:
 - Local tactics in Tumbleweed (AGM expansion) Puzzle E
 
 
-## Pre-parry - A non-cuttable move in LOS of a friendly 1-stack that has 1 fLOS and 1 eLOS
+## Pre-parry 
 
-Because the parry is adding the 3rd LOS to a 1-stack, attacked with 2 eLOS, the pre-parry is setting up for the parry. It is important that a pre-parry is non-cuttable because otherwise Red would just cut and the attack would no longer be defensible by a parry.
+A pre-parry is a non-cuttable move in LOS of a friendly 1-stack that has 1 fLOS and 1 eLOS. Because the parry is adding the 3rd LOS to a 1-stack, attacked with 2 eLOS, the pre-parry is setting up for the parry. It is important that a pre-parry is non-cuttable because otherwise Red would just cut and the attack would no longer be defensible by a parry.
 
 {{< columns >}}
 ![Diagram 30](30.png)
@@ -325,7 +325,7 @@ Because the parry is adding the 3rd LOS to a 1-stack, attacked with 2 eLOS, the 
 Here, Red just played 1.C5 White has responded with 1...D2. This adds a second fLOS to C2. If Red now tries to attack C2 using a move like 2.B2 ?? White will immediately counterattack: 2...B1! This move adds a third fLOS on C2, which makes a Red capture of C2 suicidal. Therefore, Red cannot capture and instead must deal with the hard fact that the B2 stack is now under severe attack. It was because of this move D2 (or other pre-parrying moves that were possible, like E2 or C1) that would make the actual parry possible, in case Red decides to foolishly attack.
 
 
-## Trap - a forcible capture
+## Trap 
 
 A forcible capture or trap is an attack on an enemy stack that leaves no way for the opponent to save it. This means there is no possibility of shielding, parrying, or capturing one of the attacking stacks. Some of the clearest examples of this are contact plays.
 
@@ -353,14 +353,14 @@ To attack the white stack on C1, Red has two moves: A1 and D2. Playing A1 would 
 A useful way to spot this kind of move that prevents shields is to look at the potential shield spots for your opponent, then look at the points that see both these shield spots and the stack you want to attack.
 
 
-## Snapback - delayed forcible capture or recapture
+## Snapback 
 
 {{< columns >}}
 ![Diagram 34](34.png)
 <--->
 {{< /columns >}}
 
-Some captures are simply not sufficient for defeating a wall. Here I want to show you that White’s wall apparently has a defect in it, on D4. Red can capture 1.D4x and replace it with a Red 3-stack. Seems good, right? However, This is a case of a snapback. After 1.D4x D5, Red’s 3-stack sees 4 eLOS and will soon be recaptured no matter what. The capture can happen but it just “snaps back” to the original owner. This concept is useful for determining if it is worth spending a move in a certain area. “If the opponent captures, will I be able to force a re-capture without doing anything right now?” If you can spot a similar snapback sequence, the answer is possibly yes.
+A snapback is a delayed forcible capture or recapture. Some captures are simply not sufficient for defeating a wall. Here I want to show you that White’s wall apparently has a defect in it, on D4. Red can capture 1.D4x and replace it with a Red 3-stack. Seems good, right? However, This is a case of a snapback. After 1.D4x D5, Red’s 3-stack sees 4 eLOS and will soon be recaptured no matter what. The capture can happen but it just “snaps back” to the original owner. This concept is useful for determining if it is worth spending a move in a certain area. “If the opponent captures, will I be able to force a re-capture without doing anything right now?” If you can spot a similar snapback sequence, the answer is possibly yes.
 
 {{< columns >}}
 ![Diagram 35](35.png)
@@ -370,9 +370,9 @@ Some captures are simply not sufficient for defeating a wall. Here I want to sho
 Examples: Local Tactics in Tumbleweed puzzle #14, #30, #31, #43.
 
 
-## Curling - a type of forcible capture
+## Curling 
 
-The snapback made a famous appearance in one variation of the size 6 Orthodox (reproduced here on size 5). In this example, White will curl around the recently captured space and Red will have no chance to keep the recently captured stack.
+One type of forcible capture is called curling. This made a famous appearance in one variation of the size 6 Orthodox (reproduced here on size 5). In this example, White will curl around the recently captured space and Red will have no chance to keep the recently captured stack.
 
 {{< columns >}}
 ![Diagram 36](36.png)
