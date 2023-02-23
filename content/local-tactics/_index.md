@@ -245,11 +245,11 @@ Difficulty: easy
 
 ## Solutions for Puzzle 21 to 24
 
-Puzzle 21: If red stays content in the lower side, white will close shop with more territory, so an invasion is necessary. A2 and D2 are the only Northern hotspots, everything else is controlled by white. If 1. D2, white …B2, red 2. D3 with the threat of capturing E3 fails to white … D2x. Red 1. A2 strikes at the weakness of White’s 1stack on A3, which will be forcibly captured. If White tries a similar … C2, Red can simply capture A3 and later reinforce A2. Even if White tries 1…B3 then Red 2. A3x forcibly captures the 3stack on B3 with 4 red LOS. Target the opponent’s weak point. Playing 1stacks is safer if you can place them with a direct capture threat.
+Puzzle 21: If red stays content in the lower side, white will close shop with more territory, so an invasion is necessary. A2 and D2 are the only Northern hotspots, everything else is controlled by white. If 1. D2, white …B2, red 2. D3 with the threat of capturing E3 fails to white … D2x. Red 1. A2 strikes at the weakness of White’s 1-stack on A3, which will be forcibly captured. If White tries a similar … C2, Red can simply capture A3 and later reinforce A2. Even if White tries 1…B3 then Red 2. A3x forcibly captures the 3-stack on B3 with 4 red LOS. Target the opponent’s weak point. Playing 1-stacks is safer if you can place them with a direct capture threat.
 
-Puzzle 22. Red needs to capture the neutral and keep all his stacks safe to win. If Red begins with 1. B4, then white can oversee B3 by playing B2 which secures the neutral for White. If Red tries to capture the neutral with 1. E5, White can play …B4 and then red’s 1stack on C4 will be in grave danger. The solution is 1. D4, which allows Red to oversee C4 via capturing the neutral, tipping the balance in favor of Red.
+Puzzle 22. Red needs to capture the neutral and keep all his stacks safe to win. If Red begins with 1. B4, then white can oversee B3 by playing B2 which secures the neutral for White. If Red tries to capture the neutral with 1. E5, White can play …B4 and then red’s 1-stack on C4 will be in grave danger. The solution is 1. D4, which allows Red to oversee C4 via capturing the neutral, tipping the balance in favor of Red.
 
-Puzzle 23. This will be split down the middle, and whoever gets majority along the midline wins. Among Red’s options, only 1. B4 seems to threaten anything. Red will eventually capture the 1stack since White cannot reinforce it to a 3-stack quickly enough. Blunt angles need 3stacks to live.
+Puzzle 23. This will be split down the middle, and whoever gets majority along the midline wins. Among Red’s options, only 1. B4 seems to threaten anything. Red will eventually capture the 1-stack since White cannot reinforce it to a 3-stack quickly enough. Blunt angles need 3-stacks to live.
 
 Puzzle 24. All of Red’s moves are either within Red’s own territory, or are suicidal moves, except for 1. B2, threatening the forcible capture of B3. After that, Red has an easy time winning.
 
@@ -281,11 +281,11 @@ Difficulty: easy
 
 Puzzle 25. Red needs to seize the opportunity to invade with 1. C5, threatening to help the Red 2-stack on E4 by permitting a 2-stack to be played on E5 later. 1.C5 is also a threat to begin apple-picking with C3, after which B3 and A3 would die. So if White responds with 1…C3, Red plays 2. E5, and if instead White responds by 1…D5, Red plays C3 and begins apple-picking. Notice how Red’s attempts to invade with 1. E5 directly don’t work at all. After 1…D5, 2.C5 is suicidal for Red. Make your invasions while you can!
 
-Puzzle 26. White is threatening to capture both B3 and D3 because White has 2 LOS on both of those Red 1stacks. However, Red can parry both with 1. D5! Making the captures suicidal. If White builds up then Red can simply reinforce. Notice that attempting the same maneuver with 1. B1 fails to cuts on B2 and C2.
+Puzzle 26. White is threatening to capture both B3 and D3 because White has 2 LOS on both of those Red 1-stacks. However, Red can parry both with 1. D5! Making the captures suicidal. If White builds up then Red can simply reinforce. Notice that attempting the same maneuver with 1. B1 fails to cuts on B2 and C2.
 
 Puzzle 27. Though 1. E4 looks promising, it falls to White … E5 and Red won’t be able to reinforce in time, leading to a 1-point loss. Better is 1. E3 which secures both D3 and E4, the necessary points to eke out a victory. After White protests with …E5, this time Red soundly closes up shop with 2. E4.
 
-Puzzle 28: On 3x3, a player only needs 10 points to win. In this position, Red’s board-spanning wall of 2-stacks ensures 7 points, so only 3 more are needed for a win. 1. E5 secures these extra points, and white cannot cut in time: …D2 is met by 2. D5 and the 1stac on C5 will be safe.
+Puzzle 28: On 3x3, a player only needs 10 points to win. In this position, Red’s board-spanning wall of 2-stacks ensures 7 points, so only 3 more are needed for a win. 1. E5 secures these extra points, and white cannot cut in time: …D2 is met by 2. D5 and the 1-stack on C5 will be safe.
 
 ## Puzzle 29: red to win
 Author: atari
@@ -315,11 +315,11 @@ Difficulty: medium
 
 Puzzle 29. In a position like this, Red must focus on the outline of Red’s shape, and specifically the weakest points in it. Here, that is C2, B3, and D4. The upper right has 1 point guaranteed for Red, the left side has 2 points guaranteed for Red, and the lower right has 3 points guaranteed for Red. Since the groups are all equal in size (4), that means the less points guaranteed for Red, the higher priority the group is to reinforce. 1. C2 + and White can do no better than …B3x, and Red can secure the win with 2. D4+.
 
-Puzzle 30. The only move that curbs White’s expansion is Red 1. C1 – although it is a 1-stack with already an eLOS, attempts to threaten it (e.g. …A1) are met by further expansion by Red with the strong Red 2stack 2. B1. Note that if Red tried 1. B1 directly, White would have an easy time capturing it. One might think playing on the north side with 1. C1 is ignoring a scary cut by White on the hotspot …D4, but it is a snapback. Red can simply punish via 2. E4, and the empty threat with White …C5 is met with Red 3. D4x. Check whether you really need to defend before you waste a move in your own territory. Extend measuredly.
+Puzzle 30. The only move that curbs White’s expansion is Red 1. C1 – although it is a 1-stack with already an eLOS, attempts to threaten it (e.g. …A1) are met by further expansion by Red with the strong Red 2-stack 2. B1. Note that if Red tried 1. B1 directly, White would have an easy time capturing it. One might think playing on the north side with 1. C1 is ignoring a scary cut by White on the hotspot …D4, but it is a snapback. Red can simply punish via 2. E4, and the empty threat with White …C5 is met with Red 3. D4x. Check whether you really need to defend before you waste a move in your own territory. Extend measuredly.
 
 Puzzle 31. The ambitious Red 1.E3 is smashed asunder when white captures …E4x, marking the beginning of the end for the lower Red group. The lower Red group must therefore be properly capped with 1. E5+. Now, if White captures …E4x, Red simply extends with B3, winning by a point. If instead, White tries to deprive Red of the extension by playing 1….B2, sparing E4 momentarily, now Red plays E3, threatening to reinforce E4. After white captures …E4x, Red can play B3 to capture B2 in a snapback. Know when to defend. Don’t overextend.
 
-Puzzle 32: Red protects the 1stack on A1 by playing 1. A2. If White …B4, Red defends with 2.B3 or B2. If White attempts to surround Red with …E5, then 3.D5, forcibly capturing both C5 and E5.The move order here doesn’t matter, for each white move, Red has a clear response. Even though it is painful to play in what feels like your own territory, some stacks are necessary to defend!
+Puzzle 32: Red protects the 1-stack on A1 by playing 1. A2. If White …B4, Red defends with 2.B3 or B2. If White attempts to surround Red with …E5, then 3.D5, forcibly capturing both C5 and E5.The move order here doesn’t matter, for each white move, Red has a clear response. Even though it is painful to play in what feels like your own territory, some stacks are necessary to defend!
 
 ## Puzzle 33: red to win
 Author: test654
@@ -449,7 +449,7 @@ Difficulty: hard
 
 ## Solutions for Puzzle 45 to 48
 
-Puzzle 45: Red can temporarily increase the red LOS on the lower side, while blocking White’s attack on the 1stack on D5, by playing B3! This move is an anchor. Not meant to live forever, but just giving Red enough stability to gain a winning position. White can strongly attack B3 by playing …C3, but it is too late: 2.A3! Now, after White captures …B3x, red can play 3.D4 and secure the lower side. Now, White can nab an extra point by playing on …B1 but it is not enough. Red wins by one point.
+Puzzle 45: Red can temporarily increase the red LOS on the lower side, while blocking White’s attack on the 1-stack on D5, by playing B3! This move is an anchor. Not meant to live forever, but just giving Red enough stability to gain a winning position. White can strongly attack B3 by playing …C3, but it is too late: 2.A3! Now, after White captures …B3x, red can play 3.D4 and secure the lower side. Now, White can nab an extra point by playing on …B1 but it is not enough. Red wins by one point.
 
 Puzzle 46: Red can try to capture 1. B3x, but after white responds … C4x, red’s lower right will die, and the 9-point North side is not enough. Instead, the brilliant 1.D5! Allows red to make an extra point in tempo. White will need to respond …C4x, but this time after 2. E5, white must capture …D4x to prevent a 4-point territory forming there, after which Red can consolidate with 3. B3x.
 
@@ -548,7 +548,7 @@ Difficulty: medium
 
 ## Solutions for Puzzle 57 to 60
 
-Puzzle 57: Red must choose between extending his relatively safe territory on the northwest, versus living on the southeast. Currently, Red controls 8 points in the northwest, thanks in part to Red’s safe shape with a 3-stack on C2. Thus 2 more points are needed to win. Playing 1. B4 will increase Red’s control by 1, but then White …D4x and E4 cannot persist. If a 3-stack is to live on the edge, it need to either be placed in the corner, or cap a line of 2stacks leading to a corner (or leading to another 3-stack cap). So Red’s first move must help out E4 with 1.E5! And the 2 point life is secured. After White …B4 Red can play 2.B3 and the game is over.
+Puzzle 57: Red must choose between extending his relatively safe territory on the northwest, versus living on the southeast. Currently, Red controls 8 points in the northwest, thanks in part to Red’s safe shape with a 3-stack on C2. Thus 2 more points are needed to win. Playing 1. B4 will increase Red’s control by 1, but then White …D4x and E4 cannot persist. If a 3-stack is to live on the edge, it need to either be placed in the corner, or cap a line of 2-stacks leading to a corner (or leading to another 3-stack cap). So Red’s first move must help out E4 with 1.E5! And the 2 point life is secured. After White …B4 Red can play 2.B3 and the game is over.
 
 Puzzle 58: This puzzle one must recognize that the line of Red stacks along the perimeter is safe! This is 7 points already, and Red needs to make 3 more to win. Red could try to extend immediately with 1. C2? But that fails to White …D4x and E4 will fall. However, Red can live in tempo with 1. E5! Threatening to capture D5. This forces a White response …D4x and Red can safely extend with C2, winning. Always look for ways to keep the initiative via forcing moves.
 
