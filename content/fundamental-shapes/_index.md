@@ -445,11 +445,11 @@ Now, white can cut on D4 just like before, but here Red can fight back strongly 
 
 After 1...D4 2.D3 C4 the 1-stack shield is forced to prevent the capture, and it is much weaker than before. This is because the White stack is farther away than before, so a strong shield cannot be made. Still, it takes a few extra moves for red to break White’s newfound links.
 
-3. D6 is probably the less efficient option for Red here, because after ...D5 White has plenty of defensive options to complicate the situation (however it looks like Red can indeed still break the link if it is necessary).
+3\. D6 is probably the less efficient option for Red here, because after ...D5 White has plenty of defensive options to complicate the situation (however it looks like Red can indeed still break the link if it is necessary).
 
-3. B3 attacks the shield on C4, threatening a follow-up trap of D4. White can wriggle 3...C3, attacking D3 to relieve the pressure on D4, but it is not enough. 4.C4x D3x 5.D5 still traps D4 and in the end the cut is regained by Red. Note that if E4 was a 1-stack instead of a 3-stack, White would simply capture it and win this local skirmish.IfE4 was instead a 2-stack, White would curl around with E3 and prepare to capture it later.
+3\. B3 attacks the shield on C4, threatening a follow-up trap of D4. White can wriggle 3...C3, attacking D3 to relieve the pressure on D4, but it is not enough. 4.C4x D3x 5.D5 still traps D4 and in the end the cut is regained by Red. Note that if E4 was a 1-stack instead of a 3-stack, White would simply capture it and win this local skirmish.IfE4 was instead a 2-stack, White would curl around with E3 and prepare to capture it later.
 
-3. C5 also works similarly for Red to fight back against the cutting moves of white in this situation.
+3\. C5 also works similarly for Red to fight back against the cutting moves of white in this situation.
 
 
 ## Examples from real tournament games
