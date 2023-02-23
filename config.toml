@@ -1,7 +1,12 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://guide.tumbleweed.games/'
 languageCode = 'en-us'
 title = 'Tumbleweed Guide'
 theme = 'hugo-book'
+enableGitInfo = true
 
 [params]
   BookSection = '*'
+  BookTheme = 'auto'
+  BookRepo = 'https://github.com/nobu1308/tumbleweed-guide'
+  BookEditPath = 'edit/main'
+  BookComments = false
