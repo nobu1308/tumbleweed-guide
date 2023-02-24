@@ -47,7 +47,7 @@ Empty spaces are either controlled or contested, or simply **out of sight** if n
 
 **A cutting point** is a contested empty space where a Red link intersects with a White link. Creating, playing on, and otherwise controlling these cutting points are a major aspect of tactics in Tumbleweed. In the diagram, D4 is a cutting point. Either player can play a 2-stack there to “cut” the enemy link. Either player could also play on D1 or D7 to add fLOS to D4. Discussion about cuts follows in the next page.
 
-## Bridge 
+## Bridge
 
 {{< columns >}}
 ![Diagram 4](4.png)
@@ -75,7 +75,7 @@ Generally, if the cutting stack is large, it will be safer, and cutting links be
 
 Playing cuts with an inherent threat are one way to increase the safety of your own cutting stacks. For instance, if cutting between two enemy stacks also threatens to capture one of them, it is less likely that the enemy can handle that threat while counterattacking. Also, if the cut threatens to capture both of them, then counterattacking becomes basically impossible as capturing either will remove eLOS.
 
-Example: Puzzle B of Local Tactics in Tumbleweed (AGM expansion)
+Example: [Local Tactics in Tumbleweed (AGM expansion)](https://www.abstractgames.org/tumbleweed23.html) Puzzle B
 
 We will now take some time to discuss some cutting tactics. There are a few standard tricks to cut an opponent’s link, but they are of course very situational and you should figure out which ones would work in a given position before playing them, thinking about possible counterattacks your opponent could throw at you. The goal of the rest of this section is simply to present how cutting might be achieved.
 
@@ -121,7 +121,7 @@ Of course, when threatening two things at once, both of these things do not have
 In this position, White has just played I10, and Red must choose between defending the I6 stack and preventing White’s cut on E6.
 
 
-## Wedge 
+## Wedge
 
 We call wedge a move that cuts a 1-space link, like Red D5 in the following diagram.
 
@@ -168,9 +168,9 @@ If you can't make a large shield, it is often still possible to plan on making t
 
 Shields deprive enemies of LOS – if given the option, extend your shield farther to push harder and gain more space. By extension, attaching to enemy stacks via shields can be a very useful resource to control the flow of captures, maximally block lines of sight, and over concentrate the opponent's position.
 
-Basic examples of shielding can be found in: Local tactics in Tumbleweed puzzles #6, #7, and #8
+Basic examples of shielding can be found in: Local Tactics in Tumbleweed puzzles [#6](/local-tactics/#puzzle-6-red-to-live), [#7](/local-tactics/#puzzle-7-red-to-live), and [#8](/local-tactics/#puzzle-8-red-to-live)
 
-## Guard 
+## Guard
 
 {{< columns >}}
 ![Diagram 16](16.png)
@@ -214,7 +214,7 @@ During a pinwheel, either player may choose to give up and move on to a differen
 
 If the defending stack is valuable enough to trigger many shielding moves, the attacking player can gain useful stacks on the outside. These produce outward-looking fLOS that can contribute to a successful attack elsewhere on the board.
 
-Examples: Local tactics in Tumbleweed (AGM expansion) Puzzle H
+Example: [Local Tactics in Tumbleweed (AGM expansion)](https://www.abstractgames.org/tumbleweed23.html) Puzzle H
 
 
 ## Wall
@@ -238,7 +238,7 @@ Strengths and Weaknesses of walls are many. Attacking walls can be done by apple
 
 One way to take down a wall is by curling around it an attack called **apple picking**. As white, if this happens to you, I’m sorry to say you will lose at least 2 lines of territory. After Red 1.C6, placing a 3rd eLOS on C5, white cannot reinforce C5, and notice white also cannot add sufficient fLOS on C4 either, because after Red captures 2.C5x then C4 would have at most 2 fLOS, which isn’t enough to reinforce to a 3stack. If White had a 2-stack at C1, the best White could do regarding the lower side is something like B3 or A3, and then eventually reinforce C3. However, that won’t actually work well in this current position because Red also can play C1, apple picking from the North side too. In general it is advisable not to get yourself into this kind of situation, because here is where walls completely get torn to shreds. We called it apple picking because it resembles a farmer casually walking along a line of apple trees, removing their fruit one by one.
 
-Examples: Local Tactics in Tumbleweed Puzzle #25
+Examples: [Local Tactics in Tumbleweed Puzzle #25](/local-tactics/#puzzle-25-red-to-win)
 
 
 ## Getting underneath a wall
@@ -308,12 +308,12 @@ Instead of shielding, one can also increase fLOS on a 1-stack to defend a stack 
 In the diagram, Red can technically capture D4x. However, that move would be suicidal because White’s previous move B4 added a 3rd fLOS to D4 (in addition to the two fLOS on D4 emanating from D7 and F6).
 
 More examples:
-- Local tactics in Tumbleweed Puzzle #26
-- Local tactics in Tumbleweed (AGM expansion) Puzzle A
-- Local tactics in Tumbleweed (AGM expansion) Puzzle E
+- [Local Tactics in Tumbleweed Puzzle #26](/local-tactics/#puzzle-26-red-to-win)
+- [Local Tactics in Tumbleweed (AGM expansion)](https://www.abstractgames.org/tumbleweed23.html) Puzzle A
+- [Local Tactics in Tumbleweed (AGM expansion)](https://www.abstractgames.org/tumbleweed23.html) Puzzle E
 
 
-## Pre-parry 
+## Pre-parry
 
 A pre-parry is a non-cuttable move in LOS of a friendly 1-stack that has 1 fLOS and 1 eLOS. Because the parry is adding the 3rd LOS to a 1-stack, attacked with 2 eLOS, the pre-parry is setting up for the parry. It is important that a pre-parry is non-cuttable because otherwise Red would just cut and the attack would no longer be defensible by a parry.
 
@@ -325,7 +325,7 @@ A pre-parry is a non-cuttable move in LOS of a friendly 1-stack that has 1 fLOS 
 Here, Red just played 1.C5 White has responded with 1...D2. This adds a second fLOS to C2. If Red now tries to attack C2 using a move like 2.B2 ?? White will immediately counterattack: 2...B1! This move adds a third fLOS on C2, which makes a Red capture of C2 suicidal. Therefore, Red cannot capture and instead must deal with the hard fact that the B2 stack is now under severe attack. It was because of this move D2 (or other pre-parrying moves that were possible, like E2 or C1) that would make the actual parry possible, in case Red decides to foolishly attack.
 
 
-## Trap 
+## Trap
 
 A forcible capture or trap is an attack on an enemy stack that leaves no way for the opponent to save it. This means there is no possibility of shielding, parrying, or capturing one of the attacking stacks. Some of the clearest examples of this are contact plays.
 
@@ -353,7 +353,7 @@ To attack the white stack on C1, Red has two moves: A1 and D2. Playing A1 would 
 A useful way to spot this kind of move that prevents shields is to look at the potential shield spots for your opponent, then look at the points that see both these shield spots and the stack you want to attack.
 
 
-## Snapback 
+## Snapback
 
 {{< columns >}}
 ![Diagram 34](34.png)
@@ -367,10 +367,10 @@ A snapback is a delayed forcible capture or recapture. Some captures are simply 
 <--->
 {{< /columns >}}
 
-Examples: Local Tactics in Tumbleweed puzzle #14, #30, #31, #43.
+Examples: Local Tactics in Tumbleweed puzzle [#14](/local-tactics/#puzzle-14-red-to-win), [#30](/local-tactics/#puzzle-30-red-to-win), [#31](/local-tactics/#puzzle-31-red-to-win), [#43](/local-tactics/#puzzle-43-red-to-win).
 
 
-## Curling 
+## Curling
 
 One type of forcible capture is called curling. This made a famous appearance in one variation of the size 6 Orthodox (reproduced here on size 5). In this example, White will curl around the recently captured space and Red will have no chance to keep the recently captured stack.
 
@@ -397,7 +397,7 @@ Examples to see how this plays out in the Orthodox:
 
 ## Anchor
 
-One can use temporary sacrificial moves when possible to increase your lines of sight in an area to gain more options. Take for example, Atari’s brilliant puzzle #35 from the Local Tactics in Tumbleweed puzzle book (red to move and win, difficulty medium).
+One can use temporary sacrificial moves when possible to increase your lines of sight in an area to gain more options. Take for example, Atari’s brilliant puzzle [#35](/local-tactics/#puzzle-35-red-to-win) from the Local Tactics in Tumbleweed puzzle book (red to move and win, difficulty medium).
 
 {{< columns >}}
 ![Diagram 37](37.png)
@@ -408,10 +408,10 @@ The answer is a series of Anchors. First, an initial sacrificial move C1 basical
 
 More examples in the puzzle book:
 
-- Local Tactics in Tumbleweed Puzzle #45
-- Local Tactics in Tumbleweed Puzzle #47
-- Local Tactics in Tumbleweed Puzzle #67
-- Local Tactics in Tumbleweed Expansion Puzzle C
+- [Local Tactics in Tumbleweed Puzzle #45](/local-tactics/#puzzle-45-red-to-win)
+- [Local Tactics in Tumbleweed Puzzle #47](/local-tactics/#puzzle-47-red-to-win)
+- [Local Tactics in Tumbleweed Puzzle #67](/local-tactics/#puzzle-67-red-to-win)
+- [Local Tactics in Tumbleweed (AGM expansion)](https://www.abstractgames.org/tumbleweed23.html) Puzzle C
 
 
 ## Cut + Shield
