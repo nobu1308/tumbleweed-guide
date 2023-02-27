@@ -8,10 +8,7 @@ draft: false
 
 ## Link
 
-{{< columns >}}
-![Diagram 1](1.png)
-<--->
-{{< /columns >}}
+{{<figure src="1.png" alt="Diagram 1">}}
 
 Links are lines of sight (LOS) between two friendly stacks. In the figure, C4 and D4 make up a link between B4 and E4. Stacks emanate LOS in the 6 cardinal directions surrounding them. If stacks owned by the same player can see the same space, their friendly lines of sight (fLOS) are added together to allow that player to make higher-valued stacks. Thus, links allow a player to build at least 2-stacks on those intervening spaces.
 
@@ -26,10 +23,7 @@ especially if they are able to maintain control over them.
 
 ## Controlled versus contested spaces
 
-{{< columns >}}
-![Diagram 2](2.png)
-<--->
-{{< /columns >}}
+{{<figure src="2.png" alt="Diagram 2">}}
 
 **Controlled spaces** are empty hexes in which one player has a majority LOS. If a player places a stack on an enemy-controlled space, then it could be immediately recaptured by the enemy (i.e. a simple suicidal move). Playing on a space where enemy lines of sight (eLOS) exceed fLOS is always bad, so it is a general rule of thumb not to play on enemy-controlled spaces. For instance, White shouldn’t place on E6 because White has 1 LOS there, while Red has 2 LOS there. Similarly, C2 is controlled by White (White has 2 LOS, while Red has only 1).
 
@@ -40,19 +34,13 @@ Empty spaces are either controlled or contested, or simply **out of sight** if n
 
 ## Cutting point
 
-{{< columns >}}
-![Diagram 3](3.png)
-<--->
-{{< /columns >}}
+{{<figure src="3.png" alt="Diagram 3">}}
 
 **A cutting point** is a contested empty space where a Red link intersects with a White link. Creating, playing on, and otherwise controlling these cutting points are a major aspect of tactics in Tumbleweed. In the diagram, D4 is a cutting point. Either player can play a 2-stack there to “cut” the enemy link. Either player could also play on D1 or D7 to add fLOS to D4. Discussion about cuts follows in the next page.
 
 ## Bridge
 
-{{< columns >}}
-![Diagram 4](4.png)
-<--->
-{{< /columns >}}
+{{<figure src="4.png" alt="Diagram 4">}}
 
 A **bridge** is the empty space between two linked friendly stacks that are one space apart. The tactical value of the bridge is most apparent when that space is contested.
 
@@ -62,10 +50,7 @@ In the diagram, if White plays D4, Red can immediately trap it by playing C3 or 
 
 ## Cut
 
-{{< columns >}}
-![Diagram 5](5.png)
-<--->
-{{< /columns >}}
+{{<figure src="5.png" alt="Diagram 5">}}
 
 When a player plays at a cutting point,the move is called a **cut** and the stack placed is a **cutting stack**. Cutting links contests lines that were almost entirely controlled by the enemy, which can disconnect their network, and weaken their position.
 
@@ -81,42 +66,27 @@ We will now take some time to discuss some cutting tactics. There are a few stan
 
 A **double cut threat** consists in threatening two cutting moves at once, for example like in the following position.
 
-{{< columns >}}
-![Diagram 6](6.png)
-<--->
-{{< /columns >}}
+{{<figure src="6.png" alt="Diagram 6">}}
 
 Here White plays G7 and threatens to cut the red C6-I6 link on both F6 and G6. Red cannot deal with both threats, and if, say, Red plays at F6 to block one of the two cuts, White cuts with an attack on F6. Note that this triangular pattern does not need to have a vertex directly next to the link. For example White H10 below works in the same way.
 
-{{< columns >}}
-![Diagram 7](7.png)
-<--->
-{{< /columns >}}
+{{<figure src="7.png" alt="Diagram 7">}}
 
 Another way of making a double cut threat is by playing the following « trapezoid » shape, like Red H7 in the following diagram.
 
-{{< columns >}}
-![Diagram 8](8.png)
-<--->
-{{< /columns >}}
+{{<figure src="8.png" alt="Diagram 8">}}
 
 The situations arising from this kind of double threat might be less solid for the attacker than in the case of the triangle-shaped double cut threat, since the invading stone on H7 is only a 1-stack this time, Moreover, if White decides to play at one of the starred points, Red playing at the other will not come with an immediate attack. However, a move like H7 should usually be good.
 
 There is also a « diamond shape » version of the double cut threat, which comes up a bit less often and requires the help of a side stone, as in White F8 below.
 
-{{< columns >}}
-![Diagram 9](9.png)
-<--->
-{{< /columns >}}
+{{<figure src="9.png" alt="Diagram 9">}}
 
 That is all for the double cut threat shapes we will cover here, but there are a couple other exotic ones that you might encounter.
 
 Of course, when threatening two things at once, both of these things do not have to be a cut. A tactic that also comes up often is threatening both a cut and something else (for example, a stone, or another key hex).
 
-{{< columns >}}
-![Diagram 10](10.png)
-<--->
-{{< /columns >}}
+{{<figure src="10.png" alt="Diagram 10">}}
 
 In this position, White has just played I10, and Red must choose between defending the I6 stack and preventing White’s cut on E6.
 
@@ -125,40 +95,25 @@ In this position, White has just played I10, and Red must choose between defendi
 
 We call wedge a move that cuts a 1-space link, like Red D5 in the following diagram.
 
-{{< columns >}}
-![Diagram 11](11.png)
-<--->
-{{< /columns >}}
+{{<figure src="11.png" alt="Diagram 11">}}
 
 Unless the wedge attacks one of the two stacks of the link that it has just cut, it will usually fail, because the cutting stack is very vulnerable: there is no way to shield it from the two stacks it is cutting. For example, consider the position above and let’s imagine that there is no E4 Red stack. Then White can answer the wedge by attacking the E5 cutting stack, and Red would have no way to save it.
 
-{{< columns >}}
-![Diagram 12](12.png)
-<--->
-{{< /columns >}}
+{{<figure src="12.png" alt="Diagram 12">}}
 
 However, an interesting and instructive special case of wedge occurs at the edge of the board. This kind of edge shape often comes up during the endgame or when your opponent is trying to live with invading stacks, and it is useful to recognize it.
 
-{{< columns >}}
-![Diagram 13](13.png)
-<--->
-{{< /columns >}}
+{{<figure src="13.png" alt="Diagram 13">}}
 
 Red F7 breaks White’s connection and cannot be attacked by White. Breaking a link between 2-stacks on the first line is especially important (for example when you are getting invaded) because it can prevent them from making a living shape. Note that some less bulky versions of this edge wedge would still work for Red, as in the following diagram.
 
-{{< columns >}}
-![Diagram 14](14.png)
-<--->
-{{< /columns >}}
+{{<figure src="14.png" alt="Diagram 14">}}
 
 The red stack on F7 is not attackable by White. The key hexes that make this position hold for Red are the E6 and F6 hexes. This also illustrates the fact that shapes with acute angles (like the red triangle D5-F5-F7) are often safer at the edge of the board than in the center, because the angles of the shape can be attacked from fewer directions.
 
 ## Shield
 
-{{< columns >}}
-![Diagram 15](15.png)
-<--->
-{{< /columns >}}
+{{<figure src="15.png" alt="Diagram 15">}}
 
 **Shields** are moves that defend against attacks by blocking eLOS on an attacked friendly stack. In the diagram, the White stack on D4 had 3 eLOS until White played D2, blocking the eLOS from D1.
 
@@ -172,10 +127,7 @@ Basic examples of shielding can be found in: Local Tactics in Tumbleweed puzzles
 
 ## Guard
 
-{{< columns >}}
-![Diagram 16](16.png)
-<--->
-{{< /columns >}}
+{{<figure src="16.png" alt="Diagram 16">}}
 
 Instead of cutting, one can **guard** a cutting point by adding a third fLOS to a contested cutting point. Guarding moves indirectly control lines by disincentivizing opponent stacks along some spaces in the line. In the diagram, White has guarded D4 by playing D7, adding that third LOS to D4. If Red tries to play there, Red would be captured immediately.
 
@@ -186,10 +138,7 @@ It is usually good to take control of cutting points. Take control of multiple c
 
 ## Steal
 
-{{< columns >}}
-![Diagram 17](17.png)
-<--->
-{{< /columns >}}
+{{<figure src="17.png" alt="Diagram 17">}}
 
 Anybody who guards a cutting point must be ready for the situation where the enemy **steals** back control by blocking their LOS on the space in question, while adding a third LOS in the process. In the diagram Red has stolen control over D4 by playing D6, blocking the White LOS from D7. This concept famously shows up in the size 6 Orthodox (1.A1 D5 2. E1 G5) after Red guards E5 with 3.E7 and White then proceeds to steal E5 via Test's move: 3...D4, blocking the Red LOS from A1.
 
@@ -202,9 +151,9 @@ Before D7 and D6 were played in this diagram, there was a single cutting point o
 ![Diagram 18](18.png)
 <--->
 ![Diagram 19](19.png)
-<--->
-![Diagram 20](20.png)
 {{< /columns >}}
+
+{{<figure src="20.png" alt="Diagram 20">}}
 
 The term **pinwheel** refers to a series of moves in which one player continues attacking the same 1-stack or 2-stack for multiple moves in a row. If the defender places shields to remove eLOS, the attacker replenishes eLOS from different angles, resulting in a circle-like or spiral-like attacking pattern called a pinwheel. During this process, stacks played are often made possible by fLOS emanating from stacks placed last turn (for instance, see White’s sequence A1-A4-D7-G7).
 
@@ -219,10 +168,7 @@ Example: [Local Tactics in Tumbleweed (AGM expansion)](https://www.abstractgames
 
 ## Wall
 
-{{< columns >}}
-![Diagram 21](21.png)
-<--->
-{{< /columns >}}
+{{<figure src="21.png" alt="Diagram 21">}}
 
 Walls are solid lines of stacks that block enemy LOS from a territory. Walls can be extremely powerful because of how players can only place pieces within their own fLOS with the right placement of a wall, you can completely eliminate an opponent’s ability to even contest your control of an entire area. Indeed, walls are numerous in the final position of any Tumbleweed endgame, as territory is often not even countable until all spaces are hidden away behind walls. This is not always the case, as having majority LOS does not require walls, but it is the most common way to claim land in this game.
 
@@ -231,10 +177,7 @@ Strengths and Weaknesses of walls are many. Attacking walls can be done by apple
 
 ## Apple picking
 
-{{< columns >}}
-![Diagram 22](22.png)
-<--->
-{{< /columns >}}
+{{<figure src="22.png" alt="Diagram 22">}}
 
 One way to take down a wall is by curling around it an attack called **apple picking**. As white, if this happens to you, I’m sorry to say you will lose at least 2 lines of territory. After Red 1.C6, placing a 3rd eLOS on C5, white cannot reinforce C5, and notice white also cannot add sufficient fLOS on C4 either, because after Red captures 2.C5x then C4 would have at most 2 fLOS, which isn’t enough to reinforce to a 3stack. If White had a 2-stack at C1, the best White could do regarding the lower side is something like B3 or A3, and then eventually reinforce C3. However, that won’t actually work well in this current position because Red also can play C1, apple picking from the North side too. In general it is advisable not to get yourself into this kind of situation, because here is where walls completely get torn to shreds. We called it apple picking because it resembles a farmer casually walking along a line of apple trees, removing their fruit one by one.
 
@@ -262,17 +205,11 @@ Another way to attack a forming wall is to ensure that it contains multiple cutt
 
 It can happen that two opposing walls are not in contact with one another, but separated by an empty file. Here is an elementary example on a board of size 3.
 
-{{< columns >}}
-![Diagram 25](25.png)
-<--->
-{{< /columns >}}
+{{<figure src="25.png" alt="Diagram 25">}}
 
 The C file might look like neutral territory, especially to Go players. However, the first player to play a move in it will claim the entirety of its points, with no possibility for the other player to contest them.
 
-{{< columns >}}
-![Diagram 26](26.png)
-<--->
-{{< /columns >}}
+{{<figure src="26.png" alt="Diagram 26">}}
 
 In some variants of these positions, White can recover a small number of points from the file, but the advantage for the first player to play in it stays very big. This concept appears regularly in games as the endgame starts, in many different forms (the space between the walls does not have to be a single file). It is easy to overlook these moves (especially as they usually lose the initiative) but it can be quite beneficial to make the first move in one of these neutral areas.
 
@@ -281,27 +218,18 @@ In some variants of these positions, White can recover a small number of points 
 
 One of the central ideas in Tumbleweed is that you don’t need to play on a hexagon to control it, you can also just add a line of sight on it. In fact, it is often safer to take this second option. This comes up often in all parts of the game but especially in endgame. For example, look at this example where two opposing walls are approaching the edge of the board (White to play).
 
-{{< columns >}}
-![Diagram 27](27.png)
-<--->
-{{< /columns >}}
+{{<figure src="27.png" alt="Diagram 27">}}
 
 White does not want Red to curl around the white wall, since Red playing F7 would initiate some apple-picking. But White should not play a 1-stack directly at the border between Red and White on F7, because in that case, Red would play E7, and White would have no way of defending F7 (and even F6). The correct play here for White is G7 instead.
 
-{{< columns >}}
-![Diagram 28](28.png)
-<--->
-{{< /columns >}}
+{{<figure src="28.png" alt="Diagram 28">}}
 
 Now if Red plays E7, White can simply play a 2-stack on F7 and White’s position is safe.
 
 
 ## Parry
 
-{{< columns >}}
-![Diagram 29](29.png)
-<--->
-{{< /columns >}}
+{{<figure src="29.png" alt="Diagram 29">}}
 
 Instead of shielding, one can also increase fLOS on a 1-stack to defend a stack under attack. Usually this means putting 3 fLOS on a 1-stack that has 2 eLOS. The key is to make enemy captures suicidal.
 
@@ -317,10 +245,7 @@ More examples:
 
 A pre-parry is a non-cuttable move in LOS of a friendly 1-stack that has 1 fLOS and 1 eLOS. Because the parry is adding the 3rd LOS to a 1-stack, attacked with 2 eLOS, the pre-parry is setting up for the parry. It is important that a pre-parry is non-cuttable because otherwise Red would just cut and the attack would no longer be defensible by a parry.
 
-{{< columns >}}
-![Diagram 30](30.png)
-<--->
-{{< /columns >}}
+{{<figure src="30.png" alt="Diagram 30">}}
 
 Here, Red just played 1.C5 White has responded with 1...D2. This adds a second fLOS to C2. If Red now tries to attack C2 using a move like 2.B2 ?? White will immediately counterattack: 2...B1! This move adds a third fLOS on C2, which makes a Red capture of C2 suicidal. Therefore, Red cannot capture and instead must deal with the hard fact that the B2 stack is now under severe attack. It was because of this move D2 (or other pre-parrying moves that were possible, like E2 or C1) that would make the actual parry possible, in case Red decides to foolishly attack.
 
@@ -329,43 +254,28 @@ Here, Red just played 1.C5 White has responded with 1...D2. This adds a second f
 
 A forcible capture or trap is an attack on an enemy stack that leaves no way for the opponent to save it. This means there is no possibility of shielding, parrying, or capturing one of the attacking stacks. Some of the clearest examples of this are contact plays.
 
-{{< columns >}}
-![Diagram 31](31.png)
-<--->
-{{< /columns >}}
+{{<figure src="31.png" alt="Diagram 31">}}
 
 Red plays C2, trapping the D3 stack, and can capture it next turn. Note however that if White had two lines of sight on D3 (for example if there were white stacks on E4 and D5) White could parry by playing D2 or E3. There can be subtleties in trapping a stack via contact plays, but at least shields are not involved in calculations so it is usually easier to figure out how to proceed.
 
 In a more general case, trapping a stack by non-contact plays involves preventing the shields the defender could use. This means finding an attacking move that controls the potential shield spots. For example, let us look at the following position.
 
-{{< columns >}}
-![Diagram 32](32.png)
-<--->
-{{< /columns >}}
+{{<figure src="32.png" alt="Diagram 32">}}
 
 To attack the white stack on C1, Red has two moves: A1 and D2. Playing A1 would allow White a 2-stack shield on C2. But a Red play at D2 puts a third line of sight on C2, taking away White’s potential shielding move, trapping C1.
 
-{{< columns >}}
-![Diagram 33](33.png)
-<--->
-{{< /columns >}}
+{{<figure src="33.png" alt="Diagram 33">}}
 
 A useful way to spot this kind of move that prevents shields is to look at the potential shield spots for your opponent, then look at the points that see both these shield spots and the stack you want to attack.
 
 
 ## Snapback
 
-{{< columns >}}
-![Diagram 34](34.png)
-<--->
-{{< /columns >}}
+{{<figure src="34.png" alt="Diagram 34">}}
 
 A snapback is a delayed forcible capture or recapture. Some captures are simply not sufficient for defeating a wall. Here I want to show you that White’s wall apparently has a defect in it, on D4. Red can capture 1.D4x and replace it with a Red 3-stack. Seems good, right? However, This is a case of a snapback. After 1.D4x D5, Red’s 3-stack sees 4 eLOS and will soon be recaptured no matter what. The capture can happen but it just “snaps back” to the original owner. This concept is useful for determining if it is worth spending a move in a certain area. “If the opponent captures, will I be able to force a re-capture without doing anything right now?” If you can spot a similar snapback sequence, the answer is possibly yes.
 
-{{< columns >}}
-![Diagram 35](35.png)
-<--->
-{{< /columns >}}
+{{<figure src="35.png" alt="Diagram 35">}}
 
 Examples: Local Tactics in Tumbleweed puzzle [#14](/local-tactics/#puzzle-14-red-to-win), [#30](/local-tactics/#puzzle-30-red-to-win), [#31](/local-tactics/#puzzle-31-red-to-win), [#43](/local-tactics/#puzzle-43-red-to-win).
 
@@ -374,10 +284,7 @@ Examples: Local Tactics in Tumbleweed puzzle [#14](/local-tactics/#puzzle-14-red
 
 One type of forcible capture is called curling. This made a famous appearance in one variation of the size 6 Orthodox (reproduced here on size 5). In this example, White will curl around the recently captured space and Red will have no chance to keep the recently captured stack.
 
-{{< columns >}}
-![Diagram 36](36.png)
-<--->
-{{< /columns >}}
+{{<figure src="36.png" alt="Diagram 36">}}
 
 The sequence to lead up to the diagram was 1. A1 C4 2. D1 F4 3. D6 C3 (Test’s guarding move) and then Red played 4. D3 to attack C3. In response, White has just played 4...D4 in the diagram. It looks like it doesn’t defend anything at first, right? But actually, after Red 5.C3x White can play 5...B3! A snapback. Red cannot keep B3 for himself, as he will not be able to add fLOS or reinforce quickly enough, and White will recapture at White’s convenience.
 
@@ -399,10 +306,7 @@ Examples to see how this plays out in the Orthodox:
 
 One can use temporary sacrificial moves when possible to increase your lines of sight in an area to gain more options. Take for example, Atari’s brilliant puzzle [#35](/local-tactics/#puzzle-35-red-to-win) from the Local Tactics in Tumbleweed puzzle book (red to move and win, difficulty medium).
 
-{{< columns >}}
-![Diagram 37](37.png)
-<--->
-{{< /columns >}}
+{{<figure src="37.png" alt="Diagram 37">}}
 
 The answer is a series of Anchors. First, an initial sacrificial move C1 basically will do nothing but allow Red to gain fLOS on D2. Then, In turn, the sacrificial move D2 allows Red to gain enough LOS to threaten both C2 or D5, ensuring Red has enough points to win. Both of these moves are anchors because their purpose was to provide LOS elsewhere rather than to live.
 
@@ -437,9 +341,9 @@ Next we show an example of how cutting is not always safe. Let’s say it is whi
 ![Diagram 40](40.png)
 <--->
 ![Diagram 41](41.png)
-<--->
-![Diagram 42](42.png)
 {{< /columns >}}
+
+{{<figure src="42.png" alt="Diagram 42">}}
 
 Now, white can cut on D4 just like before, but here Red can fight back strongly and reconnect by force.
 
