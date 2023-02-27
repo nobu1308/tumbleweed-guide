@@ -22,10 +22,7 @@ Playing a 1-stack adjacent to an enemy stack is usually a bad move if your 1-sta
 
 You should keep in mind that _1-stacks are weak when you place them_. You can make a 1-stack more solid later by adding more friendly lines of sight to it, but initially it will be very vulnerable. Generally, 2-stacks are better suited for agressive, contact moves (though they can fall quickly too if the initial attack is not impactful enough). However, as mentioned above, this does not mean you should disregard contact 1-stacks as a move entirely. If you play a contact move and it directly threatens to capture an enemy stack for example, your opponent will have to deal with the threat (if it is possible) before they are able to counterattack (see the diagram below, where Red plays E6).
 
-{{< columns >}}
-![Diagram 3](3.png)
-<--->
-{{< /columns >}}
+{{<figure src="3.png" alt="Diagram 3">}}
 
 Red E6 attacks D5. White has no time to play D6 or E5 to attack E6, because in that case Red would just capture D5. So Red E6 is a move that can be considered, and in fact here it can end up working very well.
 
@@ -41,27 +38,17 @@ As the endgame approaches, there are often some 1-stacks of your opponent left i
 
 After White K10, Red has to shield by playing J9, or White will capture I8 and break the wall. But after Red J9, White can play H10 or I10 for a strong double attack.
 
-
-{{< columns >}}
-![Diagram 6](6.png)
-<--->
-{{< /columns >}}
+{{<figure src="6.png" alt="Diagram 6">}}
 
 ## The intersection of two links is a crucial point
 
 As explained in the document on Shapes of Tumbleweed, links are segments between two friendly stacks that see each other. They are the fundamental building blocks of the game and should be at the center of your strategy. A situation where there is one crucial move that beginners often fail to make is the following diagram, where one of your links intersects one of the opponent’s links.
 
-{{< columns >}}
-![Diagram 7](7.png)
-<--->
-{{< /columns >}}
+{{<figure src="7.png" alt="Diagram 7">}}
 
 The two links intersect at D4. This is an urgent point to control for both sides. One possibility is to play there directly if the position permits it, another is to play a move like B2 or F6 to add a third line of sight on it. Let us look at a real-game example of this ([Tumblebot](http://34.233.90.87:8000/api/analysis/site) against itself), after 1. B2 G8 2. E5 G3 3. E9 B3.
 
-{{< columns >}}
-![Diagram 8](8.png)
-<--->
-{{< /columns >}}
+{{<figure src="8.png" alt="Diagram 8">}}
 
 The C3 and E6 hexagons are both at the intersection of a red link and a white link, so they are ideal candidate moves for both Red and White. The process of finding the most important point among these two is a bit more advanced, but roughly speaking E6 is more central, and if Red played C3 and let White play E6, Red might be overconcentrated in the top of the board and could be behind. So the best continuation from the diagram above is Red E6, White C3.
 

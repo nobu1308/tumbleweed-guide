@@ -41,26 +41,26 @@ Enjoy!
 Author: shinuito
 Difficulty: very easy
 
-{{<figure src="1.png" width="50%">}}
+{{<figure src="1.png">}}
 
 ## Puzzle 2: red to live
 Author: shinuito
 Difficulty: very easy
 
-{{<figure src="2.png" width="50%">}}
+{{<figure src="2.png">}}
 
 ## Puzzle 3: red to live
 
 Author: shinuito
 Difficulty: very easy
 
-{{<figure src="3.png" width="50%">}}
+{{<figure src="3.png">}}
 
 ## Puzzle 4: red to live
 Author: shinuito
 Difficulty: very easy
 
-{{<figure src="4.png" width="50%">}}
+{{<figure src="4.png">}}
 
 ## Solutions for Puzzle 1 to 4
 
@@ -76,25 +76,25 @@ Puzzle 4: Red can’t play a board-spanning edge wall because White controls mos
 Author: shinuito
 Difficulty: easy
 
-{{<figure src="5.png" width="50%">}}
+{{<figure src="5.png">}}
 
 ## Puzzle 6: red to live
 Author: shinuito, adapted by spartacu5
 Difficulty: easy
 
-{{<figure src="6.png" width="50%">}}
+{{<figure src="6.png">}}
 
 ## Puzzle 7: red to live
 Author: test654
 Difficulty: easy
 
-{{<figure src="7.png" width="50%">}}
+{{<figure src="7.png">}}
 
 ## Puzzle 8: red to live
 Author: test654
 Difficulty: medium
 
-{{<figure src="8.png" width="50%">}}
+{{<figure src="8.png">}}
 
 ## Solutions for Puzzle 5 to 8
 
@@ -111,28 +111,28 @@ Puzzle 8: Red can get 2 points with 1.C5, which shields the 1-stack on D6 long e
 Author: atari
 Difficulty: easy
 
-{{<figure src="9.png" width="50%">}}
+{{<figure src="9.png">}}
 
 ## Puzzle 10: red to live
 
 Author: atari
 Difficulty: easy
 
-{{<figure src="10.png" width="50%">}}
+{{<figure src="10.png">}}
 
 ## Puzzle 11: red to live
 
 Author: atari
 Difficulty: hard
 
-{{<figure src="11.png" width="50%">}}
+{{<figure src="11.png">}}
 
 ## Puzzle 12: red to live
 
 Author: atari
 Difficulty: hard
 
-{{<figure src="12.png" width="50%">}}
+{{<figure src="12.png">}}
 
 ## Solutions for Puzzle 9 to 12
 
@@ -149,28 +149,28 @@ Puzzle 12: Red 1.E7 threatens to create a board-spanning edge wall of 2-stacks (
 Author: atari
 Difficulty: medium
 
-{{<figure src="13.png" width="50%">}}
+{{<figure src="13.png">}}
 
 ## Puzzle 14: red to win
 
 Author: atari
 Difficulty: very easy
 
-{{<figure src="14.png" width="50%">}}
+{{<figure src="14.png">}}
 
 ## Puzzle 15: red to win
 
 Author: atari
 Difficulty: very easy
 
-{{<figure src="15.png" width="50%">}}
+{{<figure src="15.png">}}
 
 ## Puzzle 16: red to win
 
 Author: atari
 Difficulty: very easy
 
-{{<figure src="16.png" width="50%">}}
+{{<figure src="16.png">}}
 
 ## Solutions for Puzzle 13 to 16
 
@@ -187,27 +187,27 @@ Puzzle 16: To win on size 3, one needs at least 10 points. White and Red both ha
 Author: atari
 Difficulty: easy
 
-{{<figure src="17.png" width="50%">}}
+{{<figure src="17.png">}}
 
 ## Puzzle 18: red to win
 
 Author: test654
 Difficulty: easy
 
-{{<figure src="18.png" width="50%">}}
+{{<figure src="18.png">}}
 
 ## Puzzle 19: red to win
 
 Author: atari
 Difficulty: easy
 
-{{<figure src="19.png" width="50%">}}
+{{<figure src="19.png">}}
 
 ## Puzzle 20: red to win
 Author: atari
 Difficulty: easy
 
-{{<figure src="20.png" width="50%">}}
+{{<figure src="20.png">}}
 
 ## Solutions for Puzzle 17 to 20
 
@@ -223,25 +223,25 @@ Puzzle 20. White seems to have a double threat – …A1 or …C5 puts a red 2-s
 Author: atari
 Difficulty: easy
 
-{{<figure src="21.png" width="50%">}}
+{{<figure src="21.png">}}
 
 ## Puzzle 22: red to win
 Author: atari
 Difficulty: easy
 
-{{<figure src="22.png" width="50%">}}
+{{<figure src="22.png">}}
 
 ## Puzzle 23: red to win
 Author: atari
 Difficulty: easy
 
-{{<figure src="23.png" width="50%">}}
+{{<figure src="23.png">}}
 
 ## Puzzle 24: red to win
 Author: atari
 Difficulty: easy
 
-{{<figure src="24.png" width="50%">}}
+{{<figure src="24.png">}}
 
 ## Solutions for Puzzle 21 to 24
 
@@ -257,25 +257,25 @@ Puzzle 24. All of Red’s moves are either within Red’s own territory, or are 
 Author: atari
 Difficulty: easy
 
-{{<figure src="25.png" width="50%">}}
+{{<figure src="25.png">}}
 
 ## Puzzle 26: red to win
 Author: atari
 Difficulty: easy
 
-{{<figure src="26.png" width="50%">}}
+{{<figure src="26.png">}}
 
 ## Puzzle 27: red to win
 Author: test654
 Difficulty: easy
 
-{{<figure src="27.png" width="50%">}}
+{{<figure src="27.png">}}
 
 ## Puzzle 28: red to win
 Author: test654
 Difficulty: easy
 
-{{<figure src="28.png" width="50%">}}
+{{<figure src="28.png">}}
 
 ## Solutions for Puzzle 25 to 28
 
@@ -291,25 +291,25 @@ Puzzle 28: On 3x3, a player only needs 10 points to win. In this position, Red�
 Author: atari
 Difficulty: medium/easy
 
-{{<figure src="29.png" width="50%">}}
+{{<figure src="29.png">}}
 
 ## Puzzle 30: red to win
 Author: test654
 Difficulty: medium
 
-{{<figure src="30.png" width="50%">}}
+{{<figure src="30.png">}}
 
 ## Puzzle 31: red to win
 Author: atari
 Difficulty: medium
 
-{{<figure src="31.png" width="50%">}}
+{{<figure src="31.png">}}
 
 ## Puzzle 32: red to win
 Author: test654
 Difficulty: medium
 
-{{<figure src="32.png" width="50%">}}
+{{<figure src="32.png">}}
 
 ## Solutions for Puzzle 29 to 32
 
@@ -325,25 +325,25 @@ Puzzle 32: Red protects the 1-stack on A1 by playing 1. A2. If White …B4, Red 
 Author: test654
 Difficulty: medium
 
-{{<figure src="33.png" width="50%">}}
+{{<figure src="33.png">}}
 
 ## Puzzle 34: red to win
 Author: test654
 Difficulty: medium
 
-{{<figure src="34.png" width="50%">}}
+{{<figure src="34.png">}}
 
 ## Puzzle 35: red to win
 Author: atari
 Difficulty: medium
 
-{{<figure src="35.png" width="50%">}}
+{{<figure src="35.png">}}
 
 ## Puzzle 36: red to win
 Author: test654
 Difficulty: medium
 
-{{<figure src="36.png" width="50%">}}
+{{<figure src="36.png">}}
 
 ## Solutions for Puzzle 33 to 36
 
@@ -359,25 +359,25 @@ Puzzle 36: If Red plays 1. D2, then 7 points in the North are guaranteed. Howeve
 Author: atari
 Difficulty: medium
 
-{{<figure src="37.png" width="50%">}}
+{{<figure src="37.png">}}
 
 ## Puzzle 38: red to win
 Author: atari
 Difficulty: medium
 
-{{<figure src="38.png" width="50%">}}
+{{<figure src="38.png">}}
 
 ## Puzzle 39: red to win
 Author: atari
 Difficulty: medium
 
-{{<figure src="39.png" width="50%">}}
+{{<figure src="39.png">}}
 
 ## Puzzle 40: red to win
 Author: test654
 Difficulty: medium
 
-{{<figure src="40.png" width="50%">}}
+{{<figure src="40.png">}}
 
 ## Solutions for Puzzle 37 to 40
 
@@ -393,25 +393,25 @@ Puzzle 40: In this position, It is good shape to play in the corner, and adjacen
 Author: atari
 Difficulty: medium
 
-{{<figure src="41.png" width="50%">}}
+{{<figure src="41.png">}}
 
 ## Puzzle 42: red to win
 Author: atari
 Difficulty: medium
 
-{{<figure src="42.png" width="50%">}}
+{{<figure src="42.png">}}
 
 ## Puzzle 43: red to win
 Author: atari
 Difficulty: medium
 
-{{<figure src="43.png" width="50%">}}
+{{<figure src="43.png">}}
 
 ## Puzzle 44: red to win
 Author: atari
 Difficulty: medium
 
-{{<figure src="44.png" width="50%">}}
+{{<figure src="44.png">}}
 
 ## Solutions for Puzzle 41 to 44
 
@@ -427,25 +427,25 @@ Puzzle 44: Red is tempted to capture 1. D3x but after White responds …A2 the R
 Author: atari
 Difficulty: hard
 
-{{<figure src="45.png" width="50%">}}
+{{<figure src="45.png">}}
 
 ## Puzzle 46: red to win
 Author: test654
 Difficulty: hard
 
-{{<figure src="46.png" width="50%">}}
+{{<figure src="46.png">}}
 
 ## Puzzle 47: red to win
 Author: test654
 Difficulty: hard
 
-{{<figure src="47.png" width="50%">}}
+{{<figure src="47.png">}}
 
 ## Puzzle 48: red to win
 Author: test654
 Difficulty: hard
 
-{{<figure src="48.png" width="50%">}}
+{{<figure src="48.png">}}
 
 ## Solutions for Puzzle 45 to 48
 
@@ -461,22 +461,22 @@ Puzzle 48: Due to symmetry there are only 3 real options here – B1, A2, and B3
 Author: test654
 Difficulty: hard
 
-{{<figure src="49.png" width="50%">}}
+{{<figure src="49.png">}}
 
 ## Puzzle 50: red to win
 Author: test654 and atari
 
-{{<figure src="50.png" width="50%">}}
+{{<figure src="50.png">}}
 
 ## Puzzle 51: red to win
 Author: test654
 
-{{<figure src="51.png" width="50%">}}
+{{<figure src="51.png">}}
 
 ## Puzzle 52: red to win
 Author: test654
 
-{{<figure src="52.png" width="50%">}}
+{{<figure src="52.png">}}
 
 ## Solutions for Puzzle 49 to 52
 
@@ -492,25 +492,25 @@ Puzzle 52: Red must reinforce with 1.B1+ and after White …A2x, Red can choose 
 ## Puzzle 53: red to win
 Author: test654
 
-{{<figure src="53.png" width="50%">}}
+{{<figure src="53.png">}}
 
 ## Puzzle 54: red to win
 Author: test654
 Difficulty: hard
 
-{{<figure src="54.png" width="50%">}}
+{{<figure src="54.png">}}
 
 ## Puzzle 55: red to win
 Author: test654
 Difficulty: medium
 
-{{<figure src="55.png" width="50%">}}
+{{<figure src="55.png">}}
 
 ## Puzzle 56: red to win
 Author: test654
 Difficulty: medium
 
-{{<figure src="56.png" width="50%">}}
+{{<figure src="56.png">}}
 
 ## Solutions for Puzzle 53 to 56
 
@@ -526,25 +526,25 @@ Puzzle 56: Red captures with 1. C5x and White may protect the hotspot A2 with �
 Author: test654
 Difficulty: medium
 
-{{<figure src="57.png" width="50%">}}
+{{<figure src="57.png">}}
 
 ## Puzzle 58: red to win
 Author: test654
 Difficulty: medium
 
-{{<figure src="58.png" width="50%">}}
+{{<figure src="58.png">}}
 
 ## Puzzle 59: red to win
 Author: test654
 Difficulty: medium
 
-{{<figure src="59.png" width="50%">}}
+{{<figure src="59.png">}}
 
 ## Puzzle 60: red to win
 Author: test654
 Difficulty: medium
 
-{{<figure src="60.png" width="50%">}}
+{{<figure src="60.png">}}
 
 ## Solutions for Puzzle 57 to 60
 
@@ -559,12 +559,12 @@ Puzzle 60: Claiming a hotspot with Red 1. D3 isn’t enough for Red to win – a
 ## Puzzle 61: red to win
 Author: atari
 
-{{<figure src="61.png" width="50%">}}
+{{<figure src="61.png">}}
 
 ## Puzzle 62: red to win
 Author: test654
 
-{{<figure src="62.png" width="50%">}}
+{{<figure src="62.png">}}
 
 ## Solutions for Puzzle 61 and 62
 
@@ -575,12 +575,12 @@ Puzzle 62: No solution yet. If 1.G7, …C6 traps C5 and that will secure enough 
 ## Puzzle 63: red to win
 Author: test654
 
-{{<figure src="63.png" width="50%">}}
+{{<figure src="63.png">}}
 
 ## Puzzle 64: red to win
 Author: atari
 
-{{<figure src="64.png" width="50%">}}
+{{<figure src="64.png">}}
 
 ## Solutions for Puzzle 63 and 64
 
@@ -592,12 +592,12 @@ in puzzle form – “your opponent’s biggest move is yours”.
 ## Puzzle 65: red to win
 Author: atari
 
-{{<figure src="65.png" width="50%">}}
+{{<figure src="65.png">}}
 
 ## Puzzle 66: red to win
 Author: test654
 
-{{<figure src="66.png" width="50%">}}
+{{<figure src="66.png">}}
 
 ## Solutions for Puzzle 65 and 66
 
@@ -609,7 +609,7 @@ Puzzle 66: Red 1.A4 sets up wings along Red’s wall until E4. It can be answere
 Author: test654
 Difficulty: hard
 
-{{<figure src="67.png" width="50%">}}
+{{<figure src="67.png">}}
 
 ## Solutions for Puzzle 67
 
@@ -620,12 +620,12 @@ However, this misses Red 1. A2! with the threat of 2. B2! The extra line of sigh
 ## Puzzle 68: red to win
 Author: test654
 
-{{<figure src="68.png" width="50%">}}
+{{<figure src="68.png">}}
 
 ## Puzzle 69: red to win
 Author: test654
 
-{{<figure src="69.png" width="50%">}}
+{{<figure src="69.png">}}
 
 ## Solutions for Puzzle 68 and 69
 
