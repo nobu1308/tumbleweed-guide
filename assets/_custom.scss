@@ -24,3 +24,19 @@ header > div > strong {
         }
     }
 }
+
+@media screen and (max-width: $mobile-breakpoint) {
+    .home-table-of-contents {
+        margin: 3rem 0;
+
+        ul li {
+            line-height: 170%;
+        }
+    }
+}
+
+@media screen and (min-width: $mobile-breakpoint) {
+    .home-table-of-contents {
+        display: none;
+    }
+}
