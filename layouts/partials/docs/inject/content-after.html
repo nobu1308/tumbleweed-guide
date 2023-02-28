@@ -1,0 +1,15 @@
+{{ if .IsHome }}
+
+<div class="home-table-of-contents">
+
+    <h2>Table of Contents</h2>
+
+    <ul>
+      {{ range .Site.Sections }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+
+</div>
+
+{{ end }}
