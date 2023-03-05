@@ -1,9 +1,16 @@
 baseURL = 'https://guide.tumbleweed.games/'
 languageCode = 'en-us'
-title = 'Tumbleweed Guide'
+defaultContentLanguage = 'en'
 theme = 'hugo-book'
 enableGitInfo = true
 
+[languages]
+  [languages.en]
+    title = 'Tumbleweed Guide'
+    languageName = 'English'
+  [languages.ja]
+    title = 'タンブルウィード入門'
+    languageName = '日本語'
 [params]
   BookSection = '*'
   BookTheme = 'auto'
