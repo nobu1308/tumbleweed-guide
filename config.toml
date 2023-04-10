@@ -9,7 +9,7 @@ enableGitInfo = true
     title = 'Tumbleweed Guide'
     languageName = 'English'
   [languages.fr]
-    title = 'Tumbleweed Guide'
+    title = 'Guide pour Tumbleweed'
     languageName = 'Français'
   [languages.ja]
     title = 'タンブルウィード入門'
