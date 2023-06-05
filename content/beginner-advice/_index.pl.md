@@ -40,8 +40,6 @@ Biały gra K10. Czerwony musi teraz zagrać tarczę na J9, albo pozwolić Białe
 
 ## Przecięcie dwóch połączeń jest kluczowym punktem
 
-Comme expliqué au début du document [Fundamental Shapes in Tumbleweed](/fundamental-shapes/#link), les liens sont les segments entre deux piles de la même couleur qui se voient (autrement dit, qui sont alignées). Les liens sont les "briques fondamentales" du jeu et doivent être au centre de votre stratégie. Le diagramme suivant montre un type de position où les débutants manquent souvent un coup important, quand l'un de leurs liens croise un lien adverse.
-
 Jak wyjaśniono w dokumencie [Shapes of Tumbleweed](/fundamental-shapes/#link) (w angielskiej wersji poradnika), połączenia są segmentami planszy po których biegną przyjazne linie wzroku. Są one kluczowym elementem gry i powinny znajdować się w centrum twojej strategii. W grach między początkującymi bardzo częsta jest sytuacja, w której nie zauważają oni kluczowego ruchu związanego z przecinającymi się połączeniami przeciwnych kolorów:
 
 {{<figure src="7.png" alt="Diagram 7">}}
